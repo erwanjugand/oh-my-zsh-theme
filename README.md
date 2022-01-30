@@ -1,6 +1,6 @@
 # Introduction
 
-This is a theme for [Oh my zsh](https://ohmyz.sh/).
+An [oh-my-zsh](https://ohmyz.sh/) theme.
 
 ![screenshot](https://raw.githubusercontent.com/erwanjugand/oh-my-zsh-theme/main/screenshot.png)
 
