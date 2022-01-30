@@ -2,6 +2,10 @@
 
 This is a theme for [Oh my zsh](https://ohmyz.sh/).
 
+![screenshot](https://raw.githubusercontent.com/erwanjugand/oh-my-zsh-theme/main/screenshot.png)
+
+
+
 # Setup
 
 ## Install theme
