@@ -12,9 +12,9 @@ An [oh-my-zsh](https://ohmyz.sh/) theme.
 
 ```bash
 cd ~/.oh-my-zsh/custom/themes/
-https://github.com/erwanjugand/oh-my-zsh-theme.git
-cd oh-my-zsh-theme
-ln -f erwan.zsh-theme ../erwan.zsh-theme
+git clone https://github.com/erwanjugand/steeple-zsh-theme.git
+cd steeple-zsh-theme
+ln -f steeple.zsh-theme ../steeple.zsh-theme
 ```
 
 ## Use theme
@@ -22,4 +22,4 @@ ln -f erwan.zsh-theme ../erwan.zsh-theme
 ```bash
 nano ~/.zshrc
 ```
-Configure the theme in your .zshrc file: `ZSH_THEME="erwan"`
+Configure the theme in your .zshrc file: `ZSH_THEME="steeple"`

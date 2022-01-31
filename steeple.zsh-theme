@@ -1,4 +1,4 @@
-# Custom Theme by Erwan J.
+# Author: Erwan Jugand
 
 PROMPT='%{$fg_bold[green]%}%{$fg[green]%}%~ %{$fg_bold[cyan]%}$(git_prompt_info)%{$fg_bold[blue]%} % %{$reset_color%}'
 
